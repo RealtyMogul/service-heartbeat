@@ -23,7 +23,7 @@ tests_require = [
 setup(
     name='service_heartbeat',
     version='0.0',
-    description='lalaland',
+    description='Service heartbeat',
     long_description='Service heartbeat',
     classifiers=[
         'Programming Language :: Python',
