@@ -5,7 +5,7 @@ You probably shouldn't be using this from scratch. Your cookiecutter service gen
 
 To make this code available in an already existing project. Add the following to your requirements file::
 
-    -e https://github.com/RealtyMogul/service-heartbeat
+    -e git+git://github.com/RealtyMogul/service-heartbeat.git#egg=service_heartbeat
 
 The lib should be installed next time you run setup against your requirements.txt
 
